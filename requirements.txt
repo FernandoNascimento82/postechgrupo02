@@ -2,5 +2,4 @@ streamlit==1.4.0
 pandas
 numpy
 matplotlib
-itertools
 statsmodels
