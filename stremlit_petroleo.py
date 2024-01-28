@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import itertools
 from statsmodels.tsa.arima.model import ARIMA
 # Importe outras bibliotecas necessárias
 
