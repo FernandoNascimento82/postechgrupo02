@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 matplotlib
-itertools
+python.itertools
 statsmodels
