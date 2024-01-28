@@ -1,5 +1,6 @@
-streamlit
+streamlit==23.3.2
 pandas
 numpy
 matplotlib
+itertools
 statsmodels
